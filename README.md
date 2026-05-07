@@ -4,7 +4,7 @@ Este es un proyecto de backend robusto para una tienda, desarrollado con **Java 
 
 ## 🚀 Tecnologías Utilizadas
 
-* **Java 17 + **
+* Java 17 + 
 * **Spring Boot 4.0.5**
 * **Spring Data JPA**: Para la persistencia de datos.
 * **MySQL**: Base de datos relacional.
